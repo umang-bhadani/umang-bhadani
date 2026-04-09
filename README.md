@@ -1,46 +1,4 @@
-<svg width="800" height="100" viewBox="0 0 800 100"
-  xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .t1 {
-        font-family: 'Segoe UI', Arial, sans-serif;
-        font-size: 28px;
-        font-weight: 700;
-        fill: #4f46e5;
-        text-anchor: middle;
-        animation: phase1 8s ease-in-out infinite;
-      }
-      .t2 {
-        font-family: 'Segoe UI', Arial, sans-serif;
-        font-size: 28px;
-        font-weight: 700;
-        fill: #0F6E56;
-        text-anchor: middle;
-        animation: phase2 8s ease-in-out infinite;
-      }
-      @keyframes phase1 {
-        0%   { opacity: 0; }
-        5%   { opacity: 1; }
-        40%  { opacity: 1; }
-        50%  { opacity: 0; }
-        100% { opacity: 0; }
-      }
-      @keyframes phase2 {
-        0%   { opacity: 0; }
-        50%  { opacity: 0; }
-        60%  { opacity: 1; }
-        95%  { opacity: 1; }
-        100% { opacity: 0; }
-      }
-    </style>
-  </defs>
-  <text class="t1" x="400" y="55" dominant-baseline="central">
-👋 WELCOME TO MY GITHUB PROFILE!
-  </text>
-  <text class="t2" x="400" y="55" dominant-baseline="central">
-    Hey Flock's! I'm Umang Kumar Bhadani
-  </text>
-</svg>
+# 👋 Welcome to my GitHub Profile!
 # 💫 About Me:
 B.Tech in Electronic and Communication Engineering Student<br>Passionate about coding, problem-solving, and learning new technologies<br>Currently Mastring in C Programming, DSA in C , C++ and Learning DBMS<br>Exploring Web Development (HTML, CSS & JavaScript)<br>Open to collaborate on beginner-friendly projects
 
