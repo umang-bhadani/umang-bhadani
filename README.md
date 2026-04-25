@@ -2,7 +2,7 @@
 
 # 💫 About Me:  
 **B.Tech in Electronics and Communication Engineering Student**  
-Passionate about coding, problem-solving, and learning new technologies. Currently focusing on **C Programming**, **DSA in C/C++**, and **Web Development**.  
+Passionate about coding, problem-solving, and learning new technologies. Currently **C Programming**, **DSA in C/C++**.  
 - 🌱 I'm currently learning: **Data Base Management System**  
 - 🤝 I'm open to collaborate on: **Beginner-friendly Open Source projects**  
 - 📬 How to reach me: [umangkumarbhadani35121@gmail.com](mailto:umangkumarbhadani35121@gmail.com)  
