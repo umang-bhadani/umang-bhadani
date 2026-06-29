@@ -1,10 +1,12 @@
 # 👋 Welcome to my GitHub Profile! 
 
 # 💫 About Me:  
-**B.Tech in Electronics and Communication Engineering Student**  
-Passionate about coding, problem-solving, and learning new technologies.  
-- 🌱 I'm currently learning: **Data Base Management System**  
-- 🤝 I'm open to collaborate on: **Beginner-friendly Open Source projects**  
+**🎓 B.Tech Student in Electronics and Communication Engineering at Asansol Engineering College (AEC)**
+- 🚀 Passionate about coding, Problem-Solving, Software Development and learning new technologies.
+- 💻 Aspiring Software Engineer
+- 🌱 I'm currently learning: **Java, Data Structures & Algorithms (DSA), DBMS** 
+- 🤝 I'm open to collaborate on: **Beginner-friendly Open Source projects**
+- 🤝 Open to Internship and Open Source Collaboration  
 - 📬 How to reach me: [umangkumarbhadani35121@gmail.com](mailto:umangkumarbhadani35121@gmail.com)  
 
 ---  
