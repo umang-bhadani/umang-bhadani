@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub Profile! 
 
 # 💫 About Me:  
-**🎓 B.Tech Student in Electronics and Communication Engineering at Asansol Engineering College (AEC)**
+-**🎓 B.Tech Student in Electronics and Communication Engineering at Asansol Engineering College (AEC)**
 - 🚀 Passionate about coding, Problem-Solving, Software Development and learning new technologies.
 - 💻 Aspiring Software Engineer
 - 🌱 I'm currently learning: **Java, Data Structures & Algorithms (DSA), DBMS** 
